@@ -6,7 +6,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class DepartmentServiceTest {
 
+
     @BeforeEach
     void setUp() {
+        System.out.println("lalal");
     }
 }
